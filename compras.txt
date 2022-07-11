@@ -1,1 +1,5 @@
 Compras
+dipper.jpg
+flor.jpg
+casa.jpg
+mabel.png
