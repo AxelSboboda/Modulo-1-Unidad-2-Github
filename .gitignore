@@ -1,0 +1,30 @@
+Privado.txt
+ntuser.ini
+ntuser.dat.log1
+.bash_history
+.gitconfig
+.lesshst
+.vscode/
+3D Objects/
+AppData/
+ChipsetExtraction.log
+Desktop/
+Device_ID.log
+Documents/
+Downloads/
+Favorites/
+Links/
+MicrosoftEdgeBackups/
+Music/
+NTUSER.DAT
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+datamc/
+ntuser.dat.LOG2
+.gitignore
